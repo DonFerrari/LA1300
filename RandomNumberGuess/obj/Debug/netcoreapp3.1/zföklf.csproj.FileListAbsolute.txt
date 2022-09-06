@@ -1,0 +1,14 @@
+C:\Users\valbe\source\repos\zföklf\obj\Debug\netcoreapp3.1\zföklf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valbe\source\repos\zföklf\obj\Debug\netcoreapp3.1\zföklf.AssemblyInfoInputs.cache
+C:\Users\valbe\source\repos\zföklf\obj\Debug\netcoreapp3.1\zföklf.AssemblyInfo.cs
+C:\Users\valbe\source\repos\zföklf\obj\Debug\netcoreapp3.1\zföklf.csproj.CoreCompileInputs.cache
+C:\Users\valbe\source\repos\zföklf\bin\Debug\netcoreapp3.1\zföklf.exe
+C:\Users\valbe\source\repos\zföklf\bin\Debug\netcoreapp3.1\zföklf.deps.json
+C:\Users\valbe\source\repos\zföklf\bin\Debug\netcoreapp3.1\zföklf.runtimeconfig.json
+C:\Users\valbe\source\repos\zföklf\bin\Debug\netcoreapp3.1\zföklf.runtimeconfig.dev.json
+C:\Users\valbe\source\repos\zföklf\bin\Debug\netcoreapp3.1\zföklf.dll
+C:\Users\valbe\source\repos\zföklf\bin\Debug\netcoreapp3.1\zföklf.pdb
+C:\Users\valbe\source\repos\zföklf\obj\Debug\netcoreapp3.1\zföklf.dll
+C:\Users\valbe\source\repos\zföklf\obj\Debug\netcoreapp3.1\zföklf.pdb
+C:\Users\valbe\source\repos\zföklf\obj\Debug\netcoreapp3.1\zföklf.genruntimeconfig.cache
+C:\Users\valbe\source\repos\zföklf\obj\Debug\netcoreapp3.1\zföklf.csproj.AssemblyReference.cache
